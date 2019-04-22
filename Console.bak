@@ -2122,12 +2122,12 @@ Connection ~ 10750 4050
 Wire Wire Line
 	10750 4050 10750 3950
 $Comp
-L Connector:Conn_01x02_Male J?
+L Connector:Conn_01x02_Male J5
 U 1 1 5CC18273
 P 2400 1200
-F 0 "J?" H 2372 1082 50  0000 R CNN
+F 0 "J5" H 2372 1082 50  0000 R CNN
 F 1 "pwr_jumper" H 2372 1173 50  0000 R CNN
-F 2 "" H 2400 1200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2400 1200 50  0001 C CNN
 F 3 "~" H 2400 1200 50  0001 C CNN
 	1    2400 1200
 	-1   0    0    1   

@@ -10,6 +10,14 @@
   )
 
   (page A4)
+  (title_block
+    (title Console)
+    (date 19-04-2019)
+    (rev 2.0.1)
+    (company "Tarcin Corporation")
+    (comment 1 "Trail 1 - mk@tarcin.in")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
