@@ -203,9 +203,9 @@ F 3 "" H 1850 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 5500 6200 0    50   ~ 0
-DEF_LED
+BSY_LED
 Text Label 850  2850 2    50   ~ 0
-DEF_LED
+BSY_LED
 Wire Wire Line
 	850  2850 950  2850
 Wire Wire Line

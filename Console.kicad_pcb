@@ -3069,7 +3069,7 @@
   (gr_text PWR_LED (at 99.314 41.148 90) (layer F.SilkS) (tstamp 5CBE4C63)
     (effects (font (size 0.5 0.5) (thickness 0.12)))
   )
-  (gr_text DEF_LED (at 104.013 57.023) (layer F.SilkS) (tstamp 5CBE40DD)
+  (gr_text BUSY (at 103.886 57.023) (layer F.SilkS) (tstamp 5CBE40DD)
     (effects (font (size 0.5 0.5) (thickness 0.12)))
   )
   (gr_text motor (at 101.6 84.074) (layer F.SilkS) (tstamp 5CBE40DD)

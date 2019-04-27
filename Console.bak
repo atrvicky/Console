@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "Console"
 Date "2019-04-09"
-Rev "1.0.0"
+Rev "2.0.1"
 Comp "Tarcin Corporation"
 Comment1 "Trail 1 - mk@tarcin.in"
 Comment2 ""
