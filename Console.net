@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source G:\Studio\Hardware\kiCad\Console\Console.sch)
-    (date "05/20/19 12:16:30")
+    (date "05/20/19 19:58:41")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

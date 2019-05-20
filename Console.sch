@@ -1108,7 +1108,7 @@ Wire Notes Line
 Wire Notes Line
 	450  450  450  7850
 Text Notes 2200 550  0    50   ~ 0
-voltage_regulation
+power_supply
 Wire Wire Line
 	5500 1650 5500 1250
 Wire Wire Line
